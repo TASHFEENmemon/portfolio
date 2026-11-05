@@ -45,6 +45,7 @@ function App() {
             <p className="eyebrow">COMPUTER SCIENCE STUDENT · DEVELOPER IN PROGRESS</p>
             <h1>Turning curiosity into <em>creative code.</em></h1>
             <p className="intro">Hi, I’m Maryam — a computer science student who enjoys building useful digital experiences, solving problems and learning how technology works.</p>
+            <p>Successfully Deployed — Week 13!</p>
             <div className="hero-actions">
               <a className="button primary" href="#projects">Explore my work <span aria-hidden="true">↗</span></a>
               <a className="text-link" href="#contact">Get in touch</a>
