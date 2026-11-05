@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 560" role="img" aria-label="Abstract illustration of a laptop, code symbols and a plant">
+  <rect width="520" height="560" fill="#d9d5c8"/>
+  <circle cx="390" cy="130" r="78" fill="#c4a889" opacity=".65"/>
+  <path d="M0 420 Q150 350 300 430 T520 405 V560 H0Z" fill="#b6b6a5"/>
+  <rect x="85" y="175" width="285" height="205" rx="13" fill="#303d34"/>
+  <rect x="101" y="192" width="253" height="169" rx="5" fill="#e9e5d9"/>
+  <path d="M125 225H235 M125 250H290 M125 275H210 M145 305H270" stroke="#a66f4b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M65 388H392L355 414H100Z" fill="#59685b"/>
+  <path d="M405 410Q390 330 425 270 M425 330Q370 290 370 250 M420 350Q470 300 475 265" stroke="#526b55" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M370 250Q390 220 420 250Q395 275 370 250 M475 265Q490 230 510 245Q500 275 475 265 M425 270Q420 230 445 220Q460 250 425 270" fill="#6f866c"/>
+  <rect x="380" y="405" width="85" height="80" rx="8" fill="#a66f4b"/>
+  <path d="M380 430H465" stroke="#855438" stroke-width="6"/>
+  <text x="42" y="510" fill="#303d34" font-family="Georgia,serif" font-size="24" font-style="italic">Make ideas work.</text>
+</svg>
